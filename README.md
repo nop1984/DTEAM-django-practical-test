@@ -16,3 +16,9 @@ Task 1/1
 django-admin startproject CVProject .
 poetry run python manage.py migrate
 poetry run python manage.py runserver
+
+
+Task 1/2
+poetry run python manage.py startapp main
+poetry run python manage.py makemigrations
+poetry run python manage.py migrate
