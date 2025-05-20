@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+# If Poetry created a .venv folder in your project
+.venv/
+# Other common names
+env/
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# SQLite database (if you’re using the default)
+db.sqlite3
+
+# Django media & static files (if you store uploads locally)
+media/
+staticfiles/
+
+# Django logs
+*.log
+
+# Coverage reports
+.coverage
+.coverage.*
+htmlcov/
+
+# Pytest cache
+.pytest_cache/
+
+# Mypy cache
+.mypy_cache/
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Optional: if you have Celery or other brokers
+celerybeat-schedule

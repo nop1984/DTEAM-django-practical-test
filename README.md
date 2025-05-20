@@ -10,3 +10,9 @@ pyenv local 3.11.4
 poetry init
 poetry add django
 poetry install --no-root
+
+
+Task 1/1
+django-admin startproject CVProject .
+poetry run python manage.py migrate
+poetry run python manage.py runserver
