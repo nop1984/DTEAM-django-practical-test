@@ -1,0 +1,56 @@
+[
+  {
+    "model": "main.project",
+    "pk": 1,
+    "fields": {
+      "title": "Corporate Website Redesign",
+      "description": "Full overhaul of company site with responsive UI.",
+      "link": "https://example.com"
+    }
+  },
+  {
+    "model": "main.project",
+    "pk": 2,
+    "fields": {
+      "title": "CI/CD Pipeline",
+      "description": "Automated build/deploy using GitLab CI and Docker.",
+      "link": ""
+    }
+  },
+  {
+    "model": "main.project",
+    "pk": 3,
+    "fields": {
+      "title": "E-commerce Platform",
+      "description": "Built with Django REST Framework and React frontend.",
+      "link": "https://shop.example.com"
+    }
+  },
+  {
+    "model": "main.project",
+    "pk": 4,
+    "fields": {
+      "title": "K8s Migration",
+      "description": "Containerized services moved to Kubernetes cluster.",
+      "link": ""
+    }
+  },
+  {
+    "model": "main.project",
+    "pk": 5,
+    "fields": {
+      "title": "Mobile App",
+      "description": "Cross-platform Flutter app for Android/iOS.",
+      "link": ""
+    }
+  },
+  {
+    "model": "main.project",
+    "pk": 6,
+    "fields": {
+      "title": "Infrastructure as Code",
+      "description": "Terraform scripts for AWS provisioning.",
+      "link": ""
+    }
+  }
+]

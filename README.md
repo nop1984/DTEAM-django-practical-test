@@ -22,3 +22,11 @@ Task 1/2
 poetry run python manage.py startapp main
 poetry run python manage.py makemigrations
 poetry run python manage.py migrate
+
+Task 1/3
+++ main/fixtures/cv.json
+++ main/fixtures/projects.json
+++ main/fixtures/skills.json
+poetry run python manage.py loaddata main/fixtures/cv.json
+poetry run python manage.py loaddata main/fixtures/projects.json
+poetry run python manage.py loaddata main/fixtures/skills.json

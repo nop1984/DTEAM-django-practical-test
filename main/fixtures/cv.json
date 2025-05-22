@@ -1,0 +1,322 @@
+[
+  {
+    "model": "main.CV",
+    "pk": 1,
+    "fields": {
+      "firstname": "Alice",
+      "lastname": "Johnson",
+      "bio": "Full-stack developer with 5 years of experience in Python, Django, and REST APIs.",
+      "skills": [1, 2, 3],
+      "projects": [1, 2],
+      "contacts": {
+        "email": "alice.johnson@example.com",
+        "phone": "+1-555-0101",
+        "linkedin": "https://linkedin.com/in/alice-johnson"
+      }
+    }
+  },
+  {
+    "model": "main.CV",
+    "pk": 2,
+    "fields": {
+      "firstname": "Bob",
+      "lastname": "Smith",
+      "bio": "DevOps engineer specializing in Docker, Kubernetes, and CI/CD pipelines.",
+      "skills": [2, 4],
+      "projects": [2, 3],
+      "contacts": {
+        "email": "bob.smith@example.com",
+        "phone": "+1-555-0102",
+        "linkedin": "https://linkedin.com/in/bob-smith"
+      }
+    }
+  },
+  {
+    "model": "main.CV",
+    "pk": 3,
+    "fields": {
+      "firstname": "Carol",
+      "lastname": "Davis",
+      "bio": "Frontend engineer with strong skills in React, TypeScript, and UI/UX design.",
+      "skills": [1, 5, 6],
+      "projects": [1, 3],
+      "contacts": {
+        "email": "carol.davis@example.com",
+        "phone": "+1-555-0103",
+        "linkedin": "https://linkedin.com/in/carol-davis"
+      }
+    }
+  },
+  {
+    "model": "main.CV",
+    "pk": 4,
+    "fields": {
+      "firstname": "Dave",
+      "lastname": "Wilson",
+      "bio": "Backend developer focused on Node.js, Express, and microservice architecture.",
+      "skills": [3, 4],
+      "projects": [4],
+      "contacts": {
+        "email": "dave.wilson@example.com",
+        "phone": "+1-555-0104",
+        "linkedin": "https://linkedin.com/in/dave-wilson"
+      }
+    }
+  },
+  {
+    "model": "main.CV",
+    "pk": 5,
+    "fields": {
+      "firstname": "Eve",
+      "lastname": "Taylor",
+      "bio": "Data engineer experienced with Python, Spark, and ETL pipelines.",
+      "skills": [2, 5, 6],
+      "projects": [2, 5],
+      "contacts": {
+        "email": "eve.taylor@example.com",
+        "phone": "+1-555-0105",
+        "linkedin": "https://linkedin.com/in/eve-taylor"
+      }
+    }
+  },
+  {
+    "model": "main.CV",
+    "pk": 6,
+    "fields": {
+      "firstname": "Frank",
+      "lastname": "Anderson",
+      "bio": "Security analyst with expertise in OWASP, penetration testing, and compliance.",
+      "skills": [1, 4],
+      "projects": [1, 4],
+      "contacts": {
+        "email": "frank.anderson@example.com",
+        "phone": "+1-555-0106",
+        "linkedin": "https://linkedin.com/in/frank-anderson"
+      }
+    }
+  },
+  {
+    "model": "main.CV",
+    "pk": 7,
+    "fields": {
+      "firstname": "Grace",
+      "lastname": "Thomas",
+      "bio": "Mobile developer skilled in Flutter, Dart, and cross-platform development.",
+      "skills": [1, 2, 6],
+      "projects": [3, 5],
+      "contacts": {
+        "email": "grace.thomas@example.com",
+        "phone": "+1-555-0107",
+        "linkedin": "https://linkedin.com/in/grace-thomas"
+      }
+    }
+  },
+  {
+    "model": "main.CV",
+    "pk": 8,
+    "fields": {
+      "firstname": "Heidi",
+      "lastname": "Moore",
+      "bio": "QA engineer proficient with Selenium, pytest, and automated test frameworks.",
+      "skills": [3, 5],
+      "projects": [2],
+      "contacts": {
+        "email": "heidi.moore@example.com",
+        "phone": "+1-555-0108",
+        "linkedin": "https://linkedin.com/in/heidi-moore"
+      }
+    }
+  },
+  {
+    "model": "main.CV",
+    "pk": 9,
+    "fields": {
+      "firstname": "Ivan",
+      "lastname": "Jackson",
+      "bio": "Cloud architect experienced with AWS, Terraform, and serverless solutions.",
+      "skills": [2, 3, 4],
+      "projects": [3, 4],
+      "contacts": {
+        "email": "ivan.jackson@example.com",
+        "phone": "+1-555-0109",
+        "linkedin": "https://linkedin.com/in/ivan-jackson"
+      }
+    }
+  },
+  {
+    "model": "main.CV",
+    "pk": 10,
+    "fields": {
+      "firstname": "Judy",
+      "lastname": "White",
+      "bio": "UI/UX designer with a passion for wireframing, prototyping, and user research.",
+      "skills": [1, 5],
+      "projects": [1, 5],
+      "contacts": {
+        "email": "judy.white@example.com",
+        "phone": "+1-555-0110",
+        "linkedin": "https://linkedin.com/in/judy-white"
+      }
+    }
+  },
+  {
+    "model": "main.CV",
+    "pk": 11,
+    "fields": {
+      "firstname": "Ken",
+      "lastname": "Harris",
+      "bio": "Machine learning engineer working with TensorFlow, PyTorch, and scikit-learn.",
+      "skills": [4, 6],
+      "projects": [2, 6],
+      "contacts": {
+        "email": "ken.harris@example.com",
+        "phone": "+1-555-0111",
+        "linkedin": "https://linkedin.com/in/ken-harris"
+      }
+    }
+  },
+  {
+    "model": "main.CV",
+    "pk": 12,
+    "fields": {
+      "firstname": "Laura",
+      "lastname": "Martin",
+      "bio": "API developer skilled in GraphQL, REST, and OpenAPI specification.",
+      "skills": [1, 2, 4],
+      "projects": [4, 5],
+      "contacts": {
+        "email": "laura.martin@example.com",
+        "phone": "+1-555-0112",
+        "linkedin": "https://linkedin.com/in/laura-martin"
+      }
+    }
+  },
+  {
+    "model": "main.CV",
+    "pk": 13,
+    "fields": {
+      "firstname": "Mallory",
+      "lastname": "Thompson",
+      "bio": "Site reliability engineer (SRE) focused on monitoring, alerting, and uptime.",
+      "skills": [3, 5, 6],
+      "projects": [3, 6],
+      "contacts": {
+        "email": "mallory.thompson@example.com",
+        "phone": "+1-555-0113",
+        "linkedin": "https://linkedin.com/in/mallory-thompson"
+      }
+    }
+  },
+  {
+    "model": "main.CV",
+    "pk": 14,
+    "fields": {
+      "firstname": "Neil",
+      "lastname": "Garcia",
+      "bio": "Database administrator experienced with PostgreSQL, MySQL, and backups.",
+      "skills": [2, 3],
+      "projects": [1],
+      "contacts": {
+        "email": "neil.garcia@example.com",
+        "phone": "+1-555-0114",
+        "linkedin": "https://linkedin.com/in/neil-garcia"
+      }
+    }
+  },
+  {
+    "model": "main.CV",
+    "pk": 15,
+    "fields": {
+      "firstname": "Olivia",
+      "lastname": "Martinez",
+      "bio": "Mobile iOS developer with expertise in Swift, Objective-C, and UI frameworks.",
+      "skills": [1, 4, 6],
+      "projects": [2, 4],
+      "contacts": {
+        "email": "olivia.martinez@example.com",
+        "phone": "+1-555-0115",
+        "linkedin": "https://linkedin.com/in/olivia-martinez"
+      }
+    }
+  },
+  {
+    "model": "main.CV",
+    "pk": 16,
+    "fields": {
+      "firstname": "Peggy",
+      "lastname": "Robinson",
+      "bio": "Technical writer and documentation specialist for SDKs and APIs.",
+      "skills": [2, 5],
+      "projects": [5],
+      "contacts": {
+        "email": "peggy.robinson@example.com",
+        "phone": "+1-555-0116",
+        "linkedin": "https://linkedin.com/in/peggy-robinson"
+      }
+    }
+  },
+  {
+    "model": "main.CV",
+    "pk": 17,
+    "fields": {
+      "firstname": "Quentin",
+      "lastname": "Clark",
+      "bio": "Blockchain developer building smart contracts on Ethereum and Solidity.",
+      "skills": [3, 4, 5],
+      "projects": [1, 3, 5],
+      "contacts": {
+        "email": "quentin.clark@example.com",
+        "phone": "+1-555-0117",
+        "linkedin": "https://linkedin.com/in/quentin-clark"
+      }
+    }
+  },
+  {
+    "model": "main.CV",
+    "pk": 18,
+    "fields": {
+      "firstname": "Ruth",
+      "lastname": "Rodriguez",
+      "bio": "Systems engineer with experience in Linux administration and automation.",
+      "skills": [1, 6],
+      "projects": [4],
+      "contacts": {
+        "email": "ruth.rodriguez@example.com",
+        "phone": "+1-555-0118",
+        "linkedin": "https://linkedin.com/in/ruth-rodriguez"
+      }
+    }
+  },
+  {
+    "model": "main.CV",
+    "pk": 19,
+    "fields": {
+      "firstname": "Steve",
+      "lastname": "Lewis",
+      "bio": "Quality assurance lead with expertise in performance and load testing.",
+      "skills": [2, 3, 6],
+      "projects": [2, 5],
+      "contacts": {
+        "email": "steve.lewis@example.com",
+        "phone": "+1-555-0119",
+        "linkedin": "https://linkedin.com/in/steve-lewis"
+      }
+    }
+  },
+  {
+    "model": "main.CV",
+    "pk": 20,
+    "fields": {
+      "firstname": "Trudy",
+      "lastname": "Lee",
+      "bio": "Full-stack engineer versed in Ruby on Rails, JavaScript, and PostgreSQL.",
+      "skills": [4, 5],
+      "projects": [3, 6],
+      "contacts": {
+        "email": "trudy.lee@example.com",
+        "phone": "+1-555-0120",
+        "linkedin": "https://linkedin.com/in/trudy-lee"
+      }
+    }
+  }
+]
