@@ -39,3 +39,6 @@ wire controllers to URLs
 Task 1/5
 wire project urls.py with main urls.py
 wire controllers to URLs 
+
+Task 1/6
+poetry run python manage.py test main.tests
