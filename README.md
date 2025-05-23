@@ -30,3 +30,12 @@ Task 1/3
 poetry run python manage.py loaddata main/fixtures/cv.json
 poetry run python manage.py loaddata main/fixtures/projects.json
 poetry run python manage.py loaddata main/fixtures/skills.json
+
+
+Task 1/4
+wire project urls.py with main urls.py
+wire controllers to URLs 
+
+Task 1/5
+wire project urls.py with main urls.py
+wire controllers to URLs 
